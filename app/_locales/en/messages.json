@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Ultimate Guitar No BullShit",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Remove all the bullshit from ultimate guitar",
+    "description": "The description of the application"
+  }
+}

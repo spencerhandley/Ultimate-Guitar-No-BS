@@ -1,0 +1,12 @@
+{
+  "name": "ultimate-guitar-no-bullshit",
+  "private": true,
+  "version": "0.0.0",
+  "dependencies": {
+    "jquery": "^3.1.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
